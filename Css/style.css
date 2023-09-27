@@ -1,0 +1,122 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#honey-logo {width: 50px;
+height: 50px;}
+   ul {list-style-type: none;
+text-align: center;
+display: flex;
+
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+
+.container {
+    background-color: rgb(247, 237, 223);
+    font-size: 1.8em;
+     color: rgb(110, 20, 20);
+     border-radius: 35px;
+
+}
+ul li {
+    flex: 1;
+  min-width: calc(50% - 10px); 
+  flex-wrap: wrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  
+  padding: 10px;
+  text-align: center;
+      
+}
+
+.logo-head {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(244, 208, 118); /* Added semicolon here */
+    padding-left: 2em;
+    padding-right: 2em;
+    border-radius: 40px;
+}
+
+
+     #our-honey {
+        background-color: rgb(244, 208, 118);
+        padding: 0.5em;
+        padding-left: 2em;
+        padding-right: 2em;
+        border-radius: 40px;
+    }
+    
+    #trace-honey {
+        background-color: rgb(244, 208, 118);
+        padding: 0.5em;
+        padding-left: 2em;
+        padding-right: 2em;
+        border-radius: 80px;
+    }
+    
+    #Facilities {
+        background-color: rgb(244, 208, 118);
+        padding: 0.5em;
+        padding-left: 2em;
+        padding-right: 2em;
+        border-radius: 40px;
+    }
+    
+    #contacts {
+        background-color: rgb(244, 208, 118);
+        padding: 0.5em;
+        padding-left: 2em;
+        padding-right: 2em;
+        border-radius: 40px;
+    }
+    h1 {
+        font-size: 2.5em;
+        text-align: center;
+        color: rgb(110, 20, 20);
+        margin-top: auto;
+    }
+
+    #honeyimg {
+        width: 400px;
+}
+
+article.card {
+    text-align: center;
+    background-color: rgb(247, 237, 223);
+    color: rgb(110, 20, 20);
+    border: 1em;
+}
+
+
+.card-text button {
+    background-color: rgb(244, 208, 118);
+    color: rgb(110, 20, 20) ;
+    border-radius: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    border: 0;
+    
+}
+    .container-end {
+        align-items: center;
+        background-color: rgb(247, 237, 223)
+        
+    }
+    .container-end h3 {
+        color: rgb(110, 20, 20) ;
+        text-align: center;
+
+    }
+
+  #finehoney {
+    width: 300px;
+    text-align: center;
+  }
